@@ -1,0 +1,27 @@
+html {
+    font-size: 1px; 
+     
+}
+
+body {
+   font-family: var(--font-family);
+   font-size: 16rem;
+   background: rgb(44,20,89);
+    background: linear-gradient(90deg, rgba(44,20,89,1) 0%, rgba(39,2,78,1) 35%, rgba(66,40,117,1) 100%);
+    color: #efd7ff;
+}
+
+.container {
+    text-align: center;
+}
+
+.title {
+    margin-top: 30rem;
+    margin-bottom: 30rem;
+}
+
+.desc {
+    margin-bottom: 30rem;
+
+}
+
